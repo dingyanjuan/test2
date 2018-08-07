@@ -1,0 +1,233 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>《D10》官网-MOBA网游-多益网络</title>
+<meta name="keywords" content="D10,D10官网" />
+<meta name="description" content="《D10》是多益网络出品的一款MOBA网游。《D10》引入了荣耀战场和纷争之路两种团队作战玩法，还拥有众多特色的英雄、自动匹配的对战平台，包括天赋、符文、Gank等元素。" />
+<style type="text/css">
+     /*reset*/
+*{margin:0; padding:0; border:none;}
+h1,h2,h3,h4,h5,h6{font-size:100%;}
+a{text-decoration:none;}
+a:hover{text-decoration:underline;color:#f00;}
+body{font:normal 12px/1.6 "宋体","Microsoft YaHei","weiruanyahei","\5B8B\4F53",Tahoma,Arial, Helvetica, sans-serif;-webkit-text-size-adjust:none; background:none;overflow: hidden;}
+
+/*公共样式*/
+.blue{color:#1ac8f5;}
+.white{color:#d2d2d2;}
+.red{color:#f00;}
+.fz16{font-size: 16px;font-weight: bold;}
+
+.shadow,.box{box-shadow: 1px 1px 5px rgba(0,0,0,0.52),inset 0px 0px 1px rgba(88,118,131,0.2);}
+.box{float: left;display: inline;border: 1px solid #323947;height: 176px;background: rgba(21,26,39,0.8);margin-right: 10px;}
+.box .title{ height:41px; line-height:41px; text-align:center; clear:both;border: 1px solid #324758;background: rgba(6,11,40,0.5);font-family: "微软雅黑";}
+
+/*布局*/
+.logo{display:block; width:200px; height: 180px;}
+.logo img{margin-left:25px;}
+.content{height:auto; overflow:hidden; width: 100%;}
+.content_inner{width: 1024px;position: relative;min-height: 260px;}
+.left_box{width:339px; float:left;margin-left: 29px;margin-right: 10px;}
+.pic_box{background:#182128; height:176px; width:337px; overflow:hidden;}
+.pic{width:337px; height:176px; overflow:hidden;}
+/** 21字 322 317 **/
+.newsList{overflow:hidden; max-width:322px;min-width: 235px;}
+.newsList ul{list-style:none outside; padding-top:20px;height: 170px;overflow: hidden;}
+.newsList ul li{height:24px; line-height:24px; max-width:312px;min-width: 225px;padding-right: 5px; overflow:hidden; padding-left:5px;}
+.newsList ul li a{color:#d2d2d2;}
+.newsList ul li a.red{color:#f00;}
+.newsList .activity_today{overflow:hidden; color:#1ac8f5; font-size:14px;text-align: left;}
+.activity_today a:hover{color: #1ac8f5;}
+.activity_today p{margin-left:5px;}
+.new_ser{margin-top:10px;width: 337px; _display:inline; position:relative;height: 64px;}
+.new_ser h3{font-size: 16px;font-family: "微软雅黑";position: absolute;top: 0px;left: 29px;color: #ddd;line-height: 64px;}
+.new_ser_con{position: absolute;height: 40px;top: 13px;left: 190px;width: 150px;}
+.new_ser .dot{background:#72b74d; height:8px; width:8px; display:inline-block;border-radius: 8px;margin-right: 2px;}
+.new_ser p{color:#d2d2d2;line-height: 20px;}
+.new_ser p a{color:#1ac8f5;}
+    #container{height: 100%;width: 100%;background: none;}
+.title{font-family: "微软雅黑";}
+.introduce{width: 330px;}
+.introduce .title{color: #1ac8f5;font-size: 16px;height: 41px;line-height: 41px;text-align: center;}
+.introduce p{margin: 20px 10px 0;color: #d9d9d9;text-indent: 2em;line-height: 2;font-size: 12px;}
+
+    #container{height: 100%;width: 100%;background: none;}
+    .logo{margin-bottom: 0;}
+
+    .prev,.next{background: url(http://img.duoyi.com/mx/2014/downloader/img/go.png) no-repeat -48px 0;position: fixed;top: -300px;width: 48px;height: 102px;z-index: 6667;opacity: 0;-webkit-transition: opacity 0.3s ease-out;}
+.prev{left: 30px;background-position: 0 0;}
+.next{right: 30px;}
+a.prev:hover{background-position: 0 -102px;}
+a.next:hover{background-position: -48px -102px;}
+a.prev:active{background-position: 0 -204px;}
+a.next:active{background-position: -48px -204px;}
+
+.show_nav .active{opacity: 1;top: 260px;}
+.content{-webkit-backface-visibility: hidden;
+    -webkit-animation-duration: 0.6s;
+    -webkit-animation-delay: .2s;
+    -webkit-animation-timing-function: ease;
+    -webkit-animation-fill-mode: both;
+}
+
+@-webkit-keyframes fadeInRight {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(25px);
+    }
+    
+    100% {
+        opacity: 1;
+        -webkit-transform: translateX(0);
+    }
+}
+
+.fadeInRight {
+    -webkit-animation-name: fadeInRight;
+}
+</style>
+</style>
+</head>
+
+<body scroll="no">
+<a href="#" class="prev"></a><a href="#" class="next"></a>
+	<div id="container">
+       <div class="logo"><img src="img/logo.png" alt="D10" /></div>
+		<div class="content fadeInRight">
+            
+            <div class="content_inner">
+                <div class="left_box">
+                    <div class="pic_box box">
+                        <div class="pic">
+                             <img src="img/img01.jpg" alt="" width="337" height="176" />
+                        </div>
+                    </div>
+                </div>
+                       
+                        <div class="introduce box">
+                            <h3 class="title">MOBA对战网游</h3>
+                            <p>    《D10》是一款架空题材的MOBA类型网络游戏，在游戏中玩家可以通过操控不同的英雄角色参与各种战场的挑战，通过团队之间的配合来击败对手取得胜利。</p>
+                        </div>
+            </div>
+        </div>
+    </div>
+
+<script>
+    window.onerror = function(){
+        return true;
+    }
+</script>
+<script src="http://img.duoyi.com/js/jquery.min.js"></script>
+<script>
+    ;(function(){
+var nav = {
+    prev:$(".prev"),
+    next:$(".next"),
+    box:$(".content_inner"),
+    isrun:0,
+    init: function(){
+        this.minw = $(".introduce").offset().left+$(".introduce").width();
+        this.prev.on("click",function(){
+            nav.cn="prev";
+            nav.setBox();
+            return false;
+        });
+        this.next.on("click",function(){
+            nav.cn="next";
+             nav.setBox();
+             return false;
+        });
+        $(".content_inner").add(this.next).add(this.prev).on({
+            "mouseenter": function(){
+                $("body").addClass("show_nav");
+            },
+            "mouseleave": function(){
+                $("body").removeClass("show_nav");
+            }
+        });
+        this.setBtn();
+    },
+    setBtn: function(){
+        var w = parseInt($(document).width());
+        if(w<this.minw){
+            if(!this.isrun){
+                this.next.addClass("active");
+                this.isrun=1;
+            }
+            this.setBox(this.cn);
+        }else{
+            this.isrun=0;
+            this.cn="prev";
+            this.box.css("left",0);
+            this.next.add(this.prev).removeClass("active");
+        }
+    },
+    setBox: function(an){
+        var w = parseInt($(document).width());
+        this.box.animate({
+            "left": this.cn==="next" ? -(this.minw+30-w) : 0
+        },function(){
+            if(nav.cn==="next"){
+                nav.prev.addClass("active");
+                nav.next.removeClass("active");
+            }else{
+                nav.prev.removeClass("active");
+                nav.next.addClass("active");
+            }
+        });
+    }
+};
+
+setTimeout(function(){
+    nav.init();
+},500);
+
+var m_timer;
+
+$(window).on("resize",function(){
+    clearTimeout(m_timer);
+    m_timer =setTimeout(function(){
+        nav.setBtn();
+    },100);
+});
+
+})();
+</script>
+<script src="http://img.duoyi.com/js/jQuery.imgChange.js"></script>
+<script>
+    //热点图数据
+/*var hot_data = [];
+function setHotImage(){
+    $(".pic").find('a').each(function(i) {
+        hot_data.push({'src':$(this).find("img").attr("src"), 'href':$(this).attr("rel")+"url="+$(this).attr("href"), 'target':'_blank',title:$(this).attr("title")});
+    });
+      //调用
+    $('.pic').imgChange(
+    {
+        data:hot_data,
+        title:false,
+        width:"",
+        height:"",
+        bg:false,
+        btnColor:'#000',
+        btnFontColor:'#fff',
+        btnTop:23,
+        btnWidth:15,
+        btnHeight:15,
+        btnMargin:3
+    });
+}
+setHotImage();*/
+</script>
+<script type="text/javascript" charset="gb2312" src="http://sw.duoyi.com/js/gamesinformation.js"></script>
+<script type="text/javascript">
+var arr_gamesinfo=window.arr_gamesinfo || "";
+
+if(!!arr_gamesinfo){
+    $("#sp_today").find("a").each(function(){
+        $(this).attr("href","/game/"+(arr_gamesinfo[$(this).text()] || ""));
+    });
+}
+</script>
+</body>
+</html>
